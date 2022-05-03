@@ -1,0 +1,42 @@
+{
+  "workbench.colorTheme": "Winter is Coming (Dark Blue - No Italics)",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "java.import.gradle.java.home": "C:\\Program Files\\Java\\jdk-11.0.13",
+  "editor.formatOnSave": true,
+  "workbench.startupEditor": "none",
+  // デバッグ中に行内に変数値を表示
+  "debug.inlineValues": true,
+  // ファイル保存時に最終行以降の空行を削除
+  "files.trimFinalNewlines": true,
+  // 検索ビューの検索結果に行数を併記
+  "search.showLineNumbers": true,
+  // ファイル保存時に行末に改行を挿入
+  "files.insertFinalNewline": true,
+  "workbench.editor.untitled.hint": "hidden",
+  "deepl.apiKey": null,
+  // vscodeのカーソルを変更する
+  "editor.cursorStyle": "block",
+  "editor.cursorBlinking": "expand",
+  // ファイルツリーにインデントのサイズを変更する
+  "workbench.tree.indent": 20,
+  // フォントサイズ
+  "editor.fontSize": 15,
+  // 無駄なホワイトスペースを削除
+  "files.trimTrailingWhitespace": true,
+  // defaultのformatter/デフォルトはPritterを指定
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
